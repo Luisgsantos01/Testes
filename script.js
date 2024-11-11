@@ -1,5 +1,5 @@
 function sim() {
-    alert("Ótimo, não baterei então!");
+    alert("Você não é um supervisor, você é um pai! <3");
 }
 
 function desvia(btn) {
